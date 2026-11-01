@@ -38,6 +38,12 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  text-align: center;
+}
+
+.home_el {
+  text-align: center;
+  margin: 20px auto;
 }
 
 .home_intro {
